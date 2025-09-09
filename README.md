@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">A Designer & Web developer getting into Ai and Data managment</h5>
+<h3 align="center">A Designer & Web developer getting into Ai and Data managment</h3>
 
 ###
 
@@ -13,6 +13,10 @@
 ###
 
 <p align="left">⚙️ I’m currently working on Islamic AI Chatbot 🤖 AKA "AL-SAHIH"<br>⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
+
+###
+
+<h3 align="left">TOOLS & SKILLS :</h3>
 
 ###
 
@@ -50,7 +54,11 @@
 
 ###
 
-<div align="center">
+<h5 align="left">Contact me :</h5>
+
+###
+
+<div align="left">
   <a href="https://discord.com/bacteriophage.x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="31" alt="discord logo"  />
   </a>
