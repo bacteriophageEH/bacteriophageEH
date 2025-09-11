@@ -21,6 +21,8 @@
 ###
 
 <div align="left">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1706463370figma-logo-transparent.png&f=1&nofb=1&ipt=e6425d67d41cf1ba76e1227d57de54e132cf189a0ee076c0924db56cc0a956f1" height="25" alt="figma logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="25" alt="react logo"  />
