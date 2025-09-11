@@ -38,8 +38,6 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="25" alt="firefox logo"  />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1706463370figma-logo-transparent.png&f=1&nofb=1&ipt=e6425d67d41cf1ba76e1227d57de54e132cf189a0ee076c0924db56cc0a956f1" height="25" alt="figma logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="25" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
