@@ -1,3 +1,8 @@
+.github/workflows
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h1 align="center">Здравствуйте я Кастер !</h1>
 
 ###
@@ -12,10 +17,6 @@
 
 ###
 
-<p align="left">⚙️ I’m currently working on Islamic AI Chatbot 🤖 AKA "AL-SAHIH"<br>⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bacteriophageEH /bacteriophageEH /output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bacteriophageEH /bacteriophageEH /output/pacman-contribution-graph.svg">
@@ -23,13 +24,16 @@
 </picture>
 
 ###
+
+<p align="left">⚙️ I’m currently working on Islamic AI Chatbot 🤖 AKA "AL-SAHIH"<br>⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
+
+###
+
 <h3 align="left">TOOLS & SKILLS :</h3>
 
 ###
 
 <div align="left">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1706463370figma-logo-transparent.png&f=1&nofb=1&ipt=e6425d67d41cf1ba76e1227d57de54e132cf189a0ee076c0924db56cc0a956f1" height="25" alt="figma logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="25" alt="react logo"  />
@@ -45,6 +49,7 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="25" alt="firefox logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="25" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -77,5 +82,30 @@
 </div>
 
 ###
-<!--
-**bacteriophageEH/bacteriophageEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Privacy Policy
+Level Up Your README
+
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+Clean Code
+
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+Get the book
+Clean Architecture
+
+Software Architecture Solutions from Uncle Bob.
+Get the book
+Explore More Books
+
+Browse the full list of curated titles to boost your coding skills.
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+
+Profile Readme Generator
