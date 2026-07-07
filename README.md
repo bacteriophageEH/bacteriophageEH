@@ -20,10 +20,6 @@
 
 ###
 
-<p align="left">⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
-
-###
-
 <h3 align="left">TOOLS & SKILLS :</h3>
 
 ###
