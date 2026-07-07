@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">⚙️ I’m currently working on Islamic AI Chatbot 🤖 AKA "AL-SAHIH"<br>⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
+<p align="left">⚡ I’m currently learning Pyton, JS, TS, C++<br>🔍 Ask me about UI/UX,  Front-end & degital marketing</p>
 
 ###
 
