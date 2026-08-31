@@ -11,42 +11,5 @@
 </div>
 
 ###
-
-<h3 align="left">TOOLS & SKILLS :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="25" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="25" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="25" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="25" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
-</div>
-
-###
-
 <h5 align="left">Contact me :</h5>
 </div>
