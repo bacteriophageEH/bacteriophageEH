@@ -49,17 +49,4 @@
 ###
 
 <h5 align="left">Contact me :</h5>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/bacteriophage.x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="23" alt="discord logo"  />
-  </a>
-  <a href="awsetch99@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="23" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/aws_infography/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="23" alt="instagram logo"  />
-  </a>
 </div>
